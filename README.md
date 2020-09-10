@@ -4,7 +4,7 @@ Welcome to a new week and the wonderful world of JavaScript. We went over variou
 
 **JavaScript Topics:**
 
-1. The idea of reduction
+1. The idea of reduction - things can and do reduce down to the simplest result
 1. use `const` by default and upgrade to `let` as needed
 1. the difference between `=`, `==`, and `===`
 1. Three Types of Problems for Developers
